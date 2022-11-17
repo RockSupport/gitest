@@ -1,3 +1,6 @@
 [submodule "layers/meta-rockchip"]
 	path = layers/meta-rockchip
 	url = https://github.com/JeffyCN/meta-rockchip
+[submodule "layers/meta-balena-isg-503"]
+	path = layers/meta-balena-isg-503
+	url = https://github.com/RockSupport/meta-balena-isg-503.git
